@@ -178,29 +178,29 @@
     min-height: 257px;
   }
 }.u-section-3 .u-sheet-1 {
-  min-height: 553px;
+  min-height: 572px;
 }
 
 .u-section-3 .u-list-1 {
   width: 977px;
-  margin: 76px auto 59px;
+  margin: 54px auto 60px;
 }
 
 .u-section-3 .u-repeater-1 {
   grid-auto-columns: calc(25% - 6.75px);
   grid-template-columns: calc(25% - 6.75px) calc(25% - 6.75px) calc(25% - 6.75px) calc(25% - 6.75px);
-  min-height: 418px;
-  grid-gap: 9px 9px;
+  min-height: 437px;
+  grid-gap: 9px;
 }
 
 .u-section-3 .u-container-layout-1 {
-  padding: 15px 19px;
+  padding: 14px 19px;
 }
 
 .u-section-3 .u-image-1 {
   width: 95px;
   height: 95px;
-  margin: -1px 59px 0 37px;
+  margin: 0 59px 0 37px;
 }
 
 .u-section-3 .u-text-1 {
@@ -211,17 +211,17 @@
 
 .u-section-3 .u-text-2 {
   font-size: 1.25rem;
-  margin: 40px 0 0 11px;
+  margin: 37px 0 0 11px;
 }
 
 .u-section-3 .u-container-layout-2 {
-  padding: 15px 19px;
+  padding: 14px 19px;
 }
 
 .u-section-3 .u-image-2 {
   width: 95px;
   height: 95px;
-  margin: -1px 59px 0 37px;
+  margin: 0 59px 0 37px;
 }
 
 .u-section-3 .u-text-3 {
@@ -232,17 +232,17 @@
 
 .u-section-3 .u-text-4 {
   font-size: 1.25rem;
-  margin: 40px 0 0 11px;
+  margin: 37px 0 0 11px;
 }
 
 .u-section-3 .u-container-layout-3 {
-  padding: 15px 19px;
+  padding: 14px 19px;
 }
 
 .u-section-3 .u-image-3 {
   width: 95px;
   height: 95px;
-  margin: -1px 59px 0 37px;
+  margin: 0 59px 0 37px;
 }
 
 .u-section-3 .u-text-5 {
@@ -253,17 +253,17 @@
 
 .u-section-3 .u-text-6 {
   font-size: 1.25rem;
-  margin: 40px 0 0 11px;
+  margin: 37px 0 0 11px;
 }
 
 .u-section-3 .u-container-layout-4 {
-  padding: 15px 19px;
+  padding: 14px 19px;
 }
 
 .u-section-3 .u-image-4 {
   width: 95px;
   height: 95px;
-  margin: -1px 59px 0 37px;
+  margin: 0 59px 0 37px;
 }
 
 .u-section-3 .u-text-7 {
@@ -274,7 +274,7 @@
 
 .u-section-3 .u-text-8 {
   font-size: 1.25rem;
-  margin: 40px 0 0 11px;
+  margin: 37px 0 0 11px;
 }
 
 .u-section-3 .u-gallery-nav-1 {
@@ -400,6 +400,8 @@
 
 .u-section-4 .u-gallery-item-1 {
   margin-right: 17px;
+  margin-top: 0;
+  margin-bottom: 0;
 }
 
 .u-section-4 .u-back-slide-1 {
@@ -472,19 +474,6 @@
 }
 
 .u-section-4 .u-over-slide-6 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
-  padding: 20px;
-}
-
-.u-section-4 .u-gallery-item-7 {
-  margin-right: 17px;
-}
-
-.u-section-4 .u-back-slide-7 {
-  transition-duration: 0.25s;
-}
-
-.u-section-4 .u-over-slide-7 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
   padding: 20px;
 }
